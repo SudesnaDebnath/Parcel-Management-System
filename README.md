@@ -19,6 +19,7 @@ This project is a console-based Parcel Management System designed from both cust
 * View Bookings
 * Update Parcel Status
 * Manage Delivery Workflow
+* Booking Cancellation
 * View Customer Feedback
 
 The project focuses on backend logic, workflow management, validations, and JSON-based data persistence using Python.
