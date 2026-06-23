@@ -1,0 +1,7 @@
+[
+    {
+        "officer_id": "admin",
+        "password": "Admin@123",
+        "name": "System Admin"
+    }
+]
